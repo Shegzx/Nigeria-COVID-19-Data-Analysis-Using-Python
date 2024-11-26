@@ -5,13 +5,12 @@ PROJECT OVERVIEW
 This project is dedicated to analyzing the spread and trends of COVID-19 across different countries over time. By working with a comprehensive dataset containing daily case counts, the aim is to derive insights, visualize trends, and understand the progression of the pandemic globally.
 
 Dataset Description
-The dataset contains the following key features:
+The datasets used in this analysis include:
 
-Province/State: Subregion of the country (if applicable).
-Country/Region: Name of the country.
-Lat: Latitude of the country or region.
-Long: Longitude of the country or region.
-Date Columns: Daily cumulative case counts for each country/region, starting from January 22, 2020, to March 9, 2023.
+COVID-19 Case Data: Collected from John Hopkins University Center for Systems Science and Engineering (JHU CSSE) detailing daily cases, deaths, and recoveries.
+Community Vulnerability Index: Measures the potential impact of COVID-19 across Nigerian states based on socio-economic and health system factors.
+Real GDP Data: Tracks Nigeria’s economic performance before and during the pandemic.
+State Budget Data: Details fiscal adjustments made in response to the pandemic's economic effects.
 
 STEPS
 Data Cleaning:
